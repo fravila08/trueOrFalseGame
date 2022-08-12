@@ -1,0 +1,15 @@
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/obj/Debug/net6.0/trueOrFalse.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/obj/Debug/net6.0/trueOrFalse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/obj/Debug/net6.0/trueOrFalse.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/obj/Debug/net6.0/trueOrFalse.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/obj/Debug/net6.0/trueOrFalse.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/bin/Debug/net6.0/trueOrFalse
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/bin/Debug/net6.0/trueOrFalse.deps.json
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/bin/Debug/net6.0/trueOrFalse.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/bin/Debug/net6.0/trueOrFalse.dll
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/bin/Debug/net6.0/trueOrFalse.pdb
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/obj/Debug/net6.0/trueOrFalse.dll
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/obj/Debug/net6.0/refint/trueOrFalse.dll
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/obj/Debug/net6.0/trueOrFalse.pdb
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/obj/Debug/net6.0/trueOrFalse.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/trueOrFalse/obj/Debug/net6.0/ref/trueOrFalse.dll
